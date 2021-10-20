@@ -1,0 +1,5 @@
+/* 修改class="text"的html节点 */
+.text{
+    /* 文字颜色为红色 */
+    color: red;
+}
