@@ -1,3 +1,5 @@
+[](./resource/poster.jpg)
+
 >[《烂俗前端》](https://juejin.cn/column/7017997240325111845)是一部以前端为题材的中长篇中文小说，这个库包含了小说本身的markdown文件和示例源码。
 
 ## 讲个故事
